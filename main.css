@@ -1,0 +1,42 @@
+#trump {
+    width: 50%;
+    height: 80%;
+    object-fit: cover;
+    
+}
+
+body {
+    background-color: #3F59A6;
+}
+
+.menu {
+    background-color: #A3BABF;
+
+    width: 42%;
+    height: 80%;
+
+    border-radius: 10px;
+
+    position: absolute;
+    left: 58%
+}
+
+.ms {
+    background-color: #3F59A6;
+    width: 350px;
+
+    border-radius: 10px;
+
+    position: relative;
+    left: 5%
+}
+
+.msH1 {
+    font-family: helvetica;
+    font-weight: 1000;
+}
+
+.msH3 {
+    font-family: helvetica;
+    font-weight: bold;
+}
