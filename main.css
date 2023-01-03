@@ -2,15 +2,16 @@
     width: 50%;
     height: 80%;
     object-fit: cover;
+    border-radius: 500px;
     
 }
 
 body {
-    background-color: #3F59A6;
+    background-image: url(https://wallpapercave.com/wp/wp9378806.jpg);
 }
 
 .menu {
-    background-color: #A3BABF;
+    background-color: #010D26;
 
     width: 42%;
     height: 80%;
@@ -22,11 +23,10 @@ body {
 }
 
 .ms {
-    background-color: #3F59A6;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #061635;
     width: 350px;
-
-    border-radius: 10px;
-
     position: relative;
     left: 5%
 }
@@ -34,9 +34,11 @@ body {
 .msH1 {
     font-family: helvetica;
     font-weight: 1000;
+    color: rgb(142, 157, 199);
 }
 
 .msH3 {
     font-family: helvetica;
     font-weight: bold;
+    color: rgb(255, 255, 255);
 }
